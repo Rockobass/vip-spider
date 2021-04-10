@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ba16620-fba8-4832-be3a-1fb86c7170e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qtJ70Arm2grhhTuHhXnyqvMgZG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../suning" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\20180\Desktop\weipinhui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.vip (1)">
+    <configuration name="这里开始哦" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weipinhui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\20180\Desktop\weipinhui\这里开始哦.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weipinhui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vip (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weipinhui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weipinhui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\20180\Desktop\weipinhui\vip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vip_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weipinhui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\20180\Desktop\weipinhui\vip_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.vip (1)" />
+        <item itemvalue="Python.vip" />
+        <item itemvalue="Python.t" />
+        <item itemvalue="Python.vip_spider" />
+        <item itemvalue="Python.vip" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ba16620-fba8-4832-be3a-1fb86c7170e1" name="Default Changelist" comment="" />
+      <created>1617892781136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617892781136</updated>
+      <workItem from="1617892786422" duration="454000" />
+      <workItem from="1617936258837" duration="920000" />
+      <workItem from="1617945654930" duration="8459000" />
+      <workItem from="1617968620814" duration="5842000" />
+      <workItem from="1617974612032" duration="229000" />
+      <workItem from="1617974947840" duration="451000" />
+      <workItem from="1617975950490" duration="20000" />
+      <workItem from="1617976941095" duration="2027000" />
+      <workItem from="1617979181374" duration="697000" />
+      <workItem from="1617980048810" duration="278000" />
+      <workItem from="1618026022483" duration="54000" />
+      <workItem from="1618038839366" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="290" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617980326000">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="502" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1617980326000" />
+    <state x="533" y="240" key="FileChooserDialogImpl" timestamp="1617937186312">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="240" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1617937186312" />
+    <state width="1461" height="383" key="GridCell.Tab.0.bottom" timestamp="1617980328619">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="383" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1617980328619" />
+    <state width="1461" height="383" key="GridCell.Tab.0.center" timestamp="1617980328619">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="383" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1617980328619" />
+    <state width="1461" height="383" key="GridCell.Tab.0.left" timestamp="1617980328619">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="383" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1617980328619" />
+    <state width="1461" height="383" key="GridCell.Tab.0.right" timestamp="1617980328619">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="383" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1617980328619" />
+    <state x="256" y="127" key="SettingsEditor" timestamp="1617936422271">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="256" y="127" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1617936422271" />
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1617975950671">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1617975950671" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/weipinhui$get.coverage" NAME="get Coverage Results" MODIFIED="1617949941403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weipinhui$getSpuIds__1_.coverage" NAME="getSpuIds (1) Coverage Results" MODIFIED="1617953560144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weipinhui$getComments.coverage" NAME="getComments Coverage Results" MODIFIED="1617954256907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weipinhui$VIP_Product.coverage" NAME="VIP_Product Coverage Results" MODIFIED="1617972209937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weipinhui$t.coverage" NAME="t Coverage Results" MODIFIED="1617973939971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weipinhui$vip__1_.coverage" NAME="vip (1) Coverage Results" MODIFIED="1617980119761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weipinhui$GetComments__1_.coverage" NAME="GetComments (1) Coverage Results" MODIFIED="1617974228884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weipinhui$VIP_Comment.coverage" NAME="VIP_Comment Coverage Results" MODIFIED="1617945818234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
